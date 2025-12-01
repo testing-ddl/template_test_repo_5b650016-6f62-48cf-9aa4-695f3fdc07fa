@@ -1,0 +1,10 @@
+[2022-06-09 16:52:01.474] [exthost] [info] Extension host with pid 504 started
+[2022-06-09 16:52:01.489] [exthost] [info] Lock '/mnt/code/.vscode/User/workspaceStorage/-353bd449/vscode.lock': Lock acquired.
+[2022-06-09 16:52:01.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-09 16:52:01.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-06-09 16:52:01.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-09 16:52:01.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-09 16:52:01.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-09 16:52:01.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-09 16:52:01.930] [exthost] [info] Eager extensions activated
+[2022-06-09 16:52:02.010] [exthost] [warning] [vscode.emmet] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'emmet.includeLanguages', provide the URI of a resource or 'null' for any resource.

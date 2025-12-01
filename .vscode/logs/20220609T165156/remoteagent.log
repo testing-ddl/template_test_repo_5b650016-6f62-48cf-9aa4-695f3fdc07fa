@@ -1,0 +1,17 @@
+[2022-06-09 16:51:56.272] [remoteagent] [info] Extension host agent started.
+[2022-06-09 16:51:58.844] [remoteagent] [info] [10.224.0.150][ded61d84][ManagementConnection] New connection established.
+[2022-06-09 16:51:59.365] [remoteagent] [warning] Switching to using in-memory credential store instead because Keytar failed to load: Cannot find module 'keytar'
+Require stack:
+- /usr/lib/code-server/lib/vscode/out/bootstrap-amd.js
+- /usr/lib/code-server/out/node/util.js
+- /usr/lib/code-server/out/node/cli.js
+- /usr/lib/code-server/out/node/entry.js
+[2022-06-09 16:52:00.203] [remoteagent] [info] [10.224.0.150][e60fd14d][ExtensionHostConnection] New connection established.
+[2022-06-09 16:52:00.212] [remoteagent] [info] [10.224.0.150][e60fd14d][ExtensionHostConnection] <504> Launched Extension Host Process.
+[2022-06-09 16:52:03.959] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-06-09 16:52:05.193] [remoteagent] [info] Installing extension: ms-python.python
+[2022-06-09 16:52:09.526] [remoteagent] [info] Downloaded extension: ms-python.python /mnt/code/.vscode/CachedExtensionVSIXs/ms-python.python-2022.4.1
+[2022-06-09 16:52:13.108] [remoteagent] [info] Extracted extension to /home/ubuntu/.local/share/code-server/extensions/.77dc74f8-692e-4579-9bf0-88f10f895c17: ms-python.python
+[2022-06-09 16:52:14.090] [remoteagent] [info] Renamed to /home/ubuntu/.local/share/code-server/extensions/ms-python.python-2022.4.1
+[2022-06-09 16:52:14.096] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-06-09 16:52:14.667] [remoteagent] [info] Extension installed successfully: ms-python.python
